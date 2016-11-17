@@ -1,0 +1,19 @@
+{
+  "name": "agent",
+  "version": "0.1.0",
+  "description": "client allowing agents to chat with multiple employees using bot as message bus",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/whatwg-fetch": "0.0.32",
+    "http-server": "^0.9.0",
+    "typescript": "^2.0.10"
+  }
+}
