@@ -1,3 +1,5 @@
+This project is old and unsupported. I will probably remove it.
+
 # Install, Build
 
 1. Clone this repo
